@@ -1,0 +1,3 @@
+        SOME_INT_VALUE = "4815162342"
+        SOME_STRING_VALUE = pruvet
+        SOME_DOUBLE_VALUE = "25,1"
